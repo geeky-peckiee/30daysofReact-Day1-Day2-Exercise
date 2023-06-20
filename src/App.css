@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.userSection {
+  font-size: 2em;
+  line-height: 50px;
+  margin: 1em;
+}
+h1 {
+  text-align: center;
+  color: rgb(6, 62, 115);
+}
+footer {
+  font-size: small;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 28.7em;
+  background-color: rgb(171, 217, 251);
+}
